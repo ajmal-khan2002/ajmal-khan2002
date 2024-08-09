@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajmal-khan2002
-- 👀 I’m interested in Data Analyst
-- - 🌱 I’m currently learning Power Bi
+- 👀 I’m interested in Front End Developer
+- - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate project on Customer Segmentation and Product Recommendation System project
 - 📫 How to reach me ajmalkhan88083@gmail.com 
 - 😄 Pronouns: Ajmal khan
