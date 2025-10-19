@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajmal-khan2002
+- 👋 Hi, I’m Ajmal khan
 - 👀 I’m interested in Data Engineer
 - 🌱 I’m currently learning Data Lakes
 - 📫 How to reach me ajmalkhan88083@gmail.com 
