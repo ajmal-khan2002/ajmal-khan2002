@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajmal-khan2002
 - 👀 I’m interested in Data Engineer
-- - 🌱 I’m currently learning Data Lakes
+- 🌱 I’m currently learning Data Lakes
 - 📫 How to reach me ajmalkhan88083@gmail.com 
 - 😄 Pronouns: Ajmal khan
 - ⚡ Fun fact: ...
